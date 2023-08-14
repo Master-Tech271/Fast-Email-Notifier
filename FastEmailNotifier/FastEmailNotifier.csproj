@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Fast Email Notifier</Title>
+    <Authors>Mohd Umar</Authors>
+    <Description>FastEmailNotifier is a versatile email notification package for .NET applications, designed to streamline and simplify email communication. Send regular emails, notifications, and error logs effortlessly using a unified interface. Customize recipients, subjects, and content, and take advantage of advanced features like multiple overrides, CC, and BCC recipients. Achieve efficient, modular email management with industry-standard practices. Compatible with popular email services. Elevate your email communication with FastEmailNotifier.</Description>
+  </PropertyGroup>
+
+</Project>
